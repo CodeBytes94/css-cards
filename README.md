@@ -6,7 +6,7 @@ You can find all the code from our CSS card series here!
 | 01 | Glassmorphism - Frosted Glass Card | [View Code](https://github.com/CodeBytes94/css-cards/tree/main/glassmorphism/frosted-glass-card)
 
 For full tutorials visit our webpage or YouTube channel!
-- Website: https://codebytesized.com/
+- Website: https://codebytes.blog/
 - YouTube: https://www.youtube.com/playlist?list=PLvvVSYZ1bhvIz0pcC5RLHLJZevwyVYvLx
 
 Follow us for more web development inspiration!
