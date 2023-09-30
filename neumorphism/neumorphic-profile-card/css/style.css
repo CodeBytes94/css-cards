@@ -2,8 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Courier New', Courier, monospace;
-    color: #41364b;
 }
 
 body {
@@ -12,6 +10,8 @@ body {
     align-items: center;
     justify-content: center;
     background-color: #e9e2ec;
+    font-family: 'Courier New', Courier, monospace;
+    color: #41364b;
 }
 
 .card {
